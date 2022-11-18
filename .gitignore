@@ -1,0 +1,35 @@
+# Project exclude paths
+/.gradle/
+/Pawns-Only Chess/task/build/
+/Pawns-Only Chess/task/out/
+/Pawns-Only Chess/task/out/production/classes/
+/Topics/Characters/Digits or not/out/
+/Topics/Characters/Digits or not/out/production/classes/
+/Topics/Enum/Days of the week/out/
+/Topics/Enum/Days of the week/out/production/classes/
+/Topics/Equality/Every mistake makes coding stronger/out/
+/Topics/Equality/Every mistake makes coding stronger/out/production/classes/
+/Topics/For loop and ranges/The sum of N numbers/out/
+/Topics/For loop and ranges/The sum of N numbers/out/production/classes/
+/Topics/If expression/Odd or even/out/
+/Topics/If expression/Odd or even/out/production/classes/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
+/Topics/Jumps and returns/Unique characters/out/
+/Topics/Jumps and returns/Unique characters/out/production/classes/
+/Topics/Member functions/Volume of a cube/out/
+/Topics/Member functions/Volume of a cube/out/production/classes/
+/Topics/Named arguments/Deposit/out/
+/Topics/Named arguments/Deposit/out/production/classes/
+/Topics/Processing strings/Number of occurrences/out/
+/Topics/Processing strings/Number of occurrences/out/production/classes/
+/Topics/Processing strings/Theory/out/
+/Topics/Processing strings/Theory/out/production/classes/
+/Topics/Regexps/Can you/out/
+/Topics/Regexps/Can you/out/production/classes/
+/Topics/When expression/A simple calculator/out/
+/Topics/When expression/A simple calculator/out/production/classes/
+/Topics/While loops/Squares of natural numbers/out/
+/Topics/While loops/Squares of natural numbers/out/production/classes/
+/Topics/Working with strings/The same line/out/
+/Topics/Working with strings/The same line/out/production/classes/
