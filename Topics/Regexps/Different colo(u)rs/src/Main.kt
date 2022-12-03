@@ -1,1 +1,0 @@
-	val color = Regex("color?u?r?s?")
